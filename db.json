@@ -2,18 +2,34 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "username": "dev",
+      "password": "123456",
+      "firstName": "dev",
+      "lastName": "test",
+      "token": "asdfgsfhdfdgjgj"
     },
     {
-      "id": 2,
-      "title": "CSE",
-      "author": "Litu"
+      "id": 1,
+      "username": "Jamal",
+      "password": "123456",
+      "firstName": "Jamal",
+      "lastName": "test",
+      "token": "asdfgsfhdfdgjgj"
     },
     {
-      "id": 3,
-      "title": "ESRM",
-      "author": "Jihan"
+      "id": 1,
+      "username": "Kamal",
+      "password": "123456",
+      "firstName": "Jamal",
+      "lastName": "test",
+      "token": "asdfgsfhdfdgjgj"
+    },
+    {
+      "firstName": "Raju",
+      "lastName": "Islam",
+      "username": "dev",
+      "password": "123456",
+      "id": 2
     }
   ],
   "comments": [

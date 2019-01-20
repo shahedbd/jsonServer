@@ -1,0 +1,5 @@
+11:20 PM 1/20/2019
+
+
+json-server --watch db.json
+http://localhost:3000/posts
