@@ -133,6 +133,129 @@
     "body": "some comment",
     "postId": 1
   }],
+  
+  
+  "PersonalInfo": [{
+      "Id": 1,
+      "Name": "Name 001",
+      "DateofBirth": "01-01-1991",
+      "MobileNo": "Mobile No 001",
+      "Country": "Country 001"
+    },
+    {
+      "Id": 2,
+      "Name": "Name 002",
+      "DateofBirth": "01-01-1992",
+      "MobileNo": "Mobile No 002",
+      "Country": "Country 002"
+    },
+    {
+      "Id": 3,
+      "Name": "Name 003",
+      "DateofBirth": "01-01-1993",
+      "MobileNo": "Mobile No 003",
+      "Country": "Country 003"
+    },
+    {
+      "Id": 4,
+      "Name": "Name 004",
+      "DateofBirth": "01-01-1994",
+      "MobileNo": "Mobile No 004",
+      "Country": "Country 004"
+    },
+    {
+      "Id": 5,
+      "Name": "Name 005",
+      "DateofBirth": "01-01-1995",
+      "MobileNo": "Mobile No 005",
+      "Country": "Country 005"
+    },
+    {
+      "Id": 6,
+      "Name": "Name 006",
+      "DateofBirth": "01-01-1996",
+      "MobileNo": "Mobile No 006",
+      "Country": "Country 006"
+    },
+    {
+      "Id": 7,
+      "Name": "Name 007",
+      "DateofBirth": "01-01-1997",
+      "MobileNo": "Mobile No 007",
+      "Country": "Country 007"
+    },
+    {
+      "Id": 8,
+      "Name": "Name 008",
+      "DateofBirth": "01-01-1998",
+      "MobileNo": "Mobile No 008",
+      "Country": "Country 008"
+    },
+    {
+      "Id": 9,
+      "Name": "Name 009",
+      "DateofBirth": "01-01-1999",
+      "MobileNo": "Mobile No 009",
+      "Country": "Country 009"
+    },
+    {
+      "Id": 10,
+      "Name": "Name 0010",
+      "DateofBirth": "01-01-1981",
+      "MobileNo": "Mobile No 0010",
+      "Country": "Country 0010"
+    },
+    {
+      "Id": 11,
+      "Name": "Name 0011",
+      "DateofBirth": "01-01-1982",
+      "MobileNo": "Mobile No 0011",
+      "Country": "Country 0011"
+    },
+    {
+      "Id": 12,
+      "Name": "Name 0012",
+      "DateofBirth": "01-01-1982",
+      "MobileNo": "Mobile No 0012",
+      "Country": "Country 0012"
+    },
+    {
+      "Id": 13,
+      "Name": "Name 0013",
+      "DateofBirth": "01-01-1983",
+      "MobileNo": "Mobile No 0013",
+      "Country": "Country 0013"
+    },
+    {
+      "Id": 14,
+      "Name": "Name 0014",
+      "DateofBirth": "01-01-1984",
+      "MobileNo": "Mobile No 0014",
+      "Country": "Country 0014"
+    },
+    {
+      "Id": 15,
+      "Name": "Name 0015",
+      "DateofBirth": "01-01-1985",
+      "MobileNo": "Mobile No 0015",
+      "Country": "Country 0015"
+    },
+    {
+      "Id": 16,
+      "Name": "Name 0016",
+      "DateofBirth": "01-01-1986",
+      "MobileNo": "Mobile No 0016",
+      "Country": "Country 0016"
+    },
+    {
+      "Id": 17,
+      "Name": "Name 0017",
+      "DateofBirth": "01-01-1987",
+      "MobileNo": "Mobile No 0017",
+      "Country": "Country 0017"
+    }
+  ],
+  
   "profile": {
     "name": "typicode"
   }
